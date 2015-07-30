@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_900">#33691E</color>
+    <color name="material_800">#33691E</color>
+    <color name="material_700">#33691E</color>
+    <color name="material_600">#33691E</color>
+    <color name="material_500">#03A9F4</color>
+    <color name="material_400">#29B6F6</color>
+    <color name="material_300">#4FC3F7</color>
+    <color name="material_200">#81D4FA</color>
+    <color name="material_100">#FFFF00</color>
+    <color name="material_50">#FFFF00</color>
+
+    <!-- Transparency: http://stackoverflow.com/questions/1492554/set-transparent-background-of-an-imageview-in-android -->
+    <color name="black">#000000</color>
+    <color name="black_100_opaque">#FF000000</color>
+    <color name="black_100_transparent">#00000000</color>
+    <color name="black_50_transparent">#304FFE</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#e4e4e4</color>
+    <color name="material_red_600">#E53935</color>
+</resources>
