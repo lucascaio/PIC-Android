@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Minha Aplicação</string>
-
+    <string name="app_name">App Garça</string>
+    <string name="app_name_register">Cadastro</string>
+    <string name="app_name_list">Listar Clientes</string>
     <string name="hello_world">Olá Bundo!</string>
     <string name="action_settings">Configurações</string>
     <string name="title_activity_dois">DoisActivity</string>

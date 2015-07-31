@@ -125,7 +125,7 @@ public class RegisterActivity extends AppCompatActivity {
                 return false;
             }
         });
-        clientCep.setCompoundDrawablesWithIntrinsicBounds(0, 0, R.mipmap.ic_launcher, 0);
+        clientCep.setCompoundDrawablesWithIntrinsicBounds(0, 0, R.mipmap.ic_findcep, 0);
         clientCep.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {

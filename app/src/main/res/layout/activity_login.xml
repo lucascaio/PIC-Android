@@ -33,7 +33,6 @@
     </com.wrapp.floatlabelededittext.FloatLabeledEditText>
 
 
-
     <Button
         android:id="@+id/btnlogin"
         android:layout_width="match_parent"

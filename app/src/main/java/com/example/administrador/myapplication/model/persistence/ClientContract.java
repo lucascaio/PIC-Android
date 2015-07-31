@@ -67,10 +67,10 @@ public class ClientContract {
         sqlUser.append("INSERT INTO ");
         sqlUser.append(TABLE_USER);
         sqlUser.append(" (");
-        sqlUser.append("id_user, name_user, password_user ");
+       // sqlUser.append("id_user, name_user, password_user ");
         sqlUser.append(ID_USER + ", ");
         sqlUser.append(NAME_USER + ", ");
-        sqlUser.append(PASSWORD_USER + ", ");
+        sqlUser.append(PASSWORD_USER );
         sqlUser.append(" )");
         sqlUser.append(" VALUES");
         sqlUser.append(" (1, 'admin', 'admin')");
